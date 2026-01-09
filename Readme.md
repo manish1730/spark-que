@@ -27,7 +27,6 @@ project/
 ├─ index.html
 ├─ script.js
 
-Copy code
 🌐 Live Demo
-👉 Deployed Link: Add your Netlify link here
+👉 Deployed Link:https://spark-que.vercel.app
 
