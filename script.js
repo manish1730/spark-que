@@ -13,3 +13,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 menuBtn.addEventListener("click", () => {
   mobileMenu.classList.toggle("hidden");
 });
+document.querySelectorAll('#mobile-menu a').forEach(link => {
+  link.addEventListener("click", () => {
+    mobileMenu.classList.add("hidden");
+  });
+});
